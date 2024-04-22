@@ -3,8 +3,6 @@
 ___
 Multifunctional skill for Yandex-Alice
 
-
-# Multifunctional skill for Yandex-Alice
 `Language:` ![https://img.shields.io/badge/Python-3.8-blue](https://img.shields.io/badge/Python-3.8-blue)
 `Status:` ![https://img.shields.io/badge/Realese-Yes-green](https://img.shields.io/badge/Realese-Yes-green)
 
